@@ -10,4 +10,4 @@ npm install @ereminnf/rui
 
 ## 📝 Docs
 
-[ereminnf.github.io/rui-uikit]()
+[https://ereminnf.github.io/rui-uikit]()
